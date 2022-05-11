@@ -18,6 +18,7 @@ public class ArrayManage {
             System.out.println("| 2. Show array");
             System.out.println("| 3. Edit element in array by index");
             System.out.println("| 4. Delete Element");
+            System.out.println("| 5. edit by number");
 
 
             System.out.println("Enter your choice: ");
